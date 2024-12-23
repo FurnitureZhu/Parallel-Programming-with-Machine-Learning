@@ -1,4 +1,6 @@
-# Sequential (Optimized with -O2)
+# Performance Results
+
+## Sequential (Optimized with -O2)
 
 **Training two-layer neural network with 400 hidden units**
 
@@ -18,7 +20,7 @@
 **Execution Time:** 524582 milliseconds
 
 
-# OpenACC Kernel
+## OpenACC Kernel
 
 **Training two-layer neural network with 400 hidden units**
 
@@ -38,7 +40,7 @@
 **Execution Time:** 94768 milliseconds
 
 
-# OpenACC Fusion
+## OpenACC Fusion
 
 **Training two-layer neural network with 400 hidden units**
 
