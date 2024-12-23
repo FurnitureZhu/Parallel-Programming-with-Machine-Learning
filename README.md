@@ -6,12 +6,12 @@ This project was conducted on the cluster of CUHK(SZ), on the cluster:
 ```bash
 # On the cluster:
 # Compile:
-cd /path/to/project4
+cd /path/to/thisProject
 mkdir build && cd build
 cmake ..
 make
 # Execute:
-cd /path/to/project4
+cd /path/to/thisProject
 sbatch ./test.sh
 ```
 
